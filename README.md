@@ -1,2 +1,0 @@
-# Konimbo
-konimbo home task
